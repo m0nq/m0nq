@@ -5,10 +5,9 @@
   <br>
 </div>  
 
-<div>
+<div align="center">
   <br>
-  <p><a src="https:github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0nq" alt="m0nq"/></a></p>
-  <br>
+  <a src="https:github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0nq" alt="m0nq"/></a>
   <img src="https://komarev.com/ghpvc/?username=m0nq&style=flat-square&color=blue" alt=""/>
 </div>
 
