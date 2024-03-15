@@ -1,12 +1,15 @@
-### Hi there 👋, Monk here...
+<h1 align="center">Hi there 👋, Monk here...</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJiMmMxYzhhM3p1aGJzeXZxeDR2NHNtMTFwOXdueGxlZHl5dWJxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWJ7cKyiWPCnVyuAhT/giphy.gif" width="500"/>
+  <br>
 </div>  
 
 <div>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=m0nq&style=flat-square&color=blue" alt=""/>
+  <br>
+  <p><a src="https:github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0nq" alt="m0nq"/></a></p>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=m0nq&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!--
