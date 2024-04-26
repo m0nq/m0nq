@@ -7,7 +7,7 @@
 
 <div align="center">
   <br>
-  <a src="https:github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0nq" alt="m0nq"/></a>
+  <a src="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0nq" alt="m0nq"/></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=m0nq&style=flat-square&color=blue" alt=""/>
 </div>
