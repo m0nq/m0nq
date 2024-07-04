@@ -27,8 +27,7 @@ cli when needed.
 Have worked for companies like Industrial Logic, Ford Motors, and RefleXion Medical.
 
 - 😄 Pronouns: he/him/his
-- 🔭 I’m currently working on [Circles.world](https://circles.world/) using Next.js, and another project I'll link to
-  when it's released.
+- 🔭 I’m currently working on [Cloud City](https://cloudcityfestival.com) using Next.js. Cloud City is a no-alcohol micro music festival. Would love for you to join us!
 - 🌱 I’m currently learning more about UI/UX processes to streamline and solve user centered problems.
 
 <!-- - 👯 I’m looking to collaborate on ...
