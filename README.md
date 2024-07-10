@@ -18,11 +18,11 @@
 Here are some ideas to get you started:
 -->
 
-I'm a front-end web developer in the San Francisco, Bay Area. I specialize in JavaScript/TypeScript
-and React based projects.
+I'm a web developer in the San Francisco, Bay Area. I specialize in JavaScript/TypeScript
+and React-based projects.
 
 My strength is in front-end development and UI/UX architecture, but I'm not afraid to touch some backend, database, or
-cli when needed.
+CLI when needed.
 
 I've worked for companies like Industrial Logic, Ford Motors, and RefleXion Medical.
 
