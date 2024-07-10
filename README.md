@@ -18,17 +18,17 @@
 Here are some ideas to get you started:
 -->
 
-I'm a boot camp grad and self-taught web developer in the San Francisco, Bay Area. I specialize in JavaScript/TypeScript
+I'm a front-end web developer in the San Francisco, Bay Area. I specialize in JavaScript/TypeScript
 and React based projects.
 
 My strength is in front-end development and UI/UX architecture, but I'm not afraid to touch some backend, database, or
 cli when needed.
 
-Have worked for companies like Industrial Logic, Ford Motors, and RefleXion Medical.
+I've worked for companies like Industrial Logic, Ford Motors, and RefleXion Medical.
 
 - 😄 Pronouns: he/him/his
 - 🔭 I’m currently working on [Cloud City](https://cloudcityfestival.com) using Next.js. Cloud City is a no-alcohol micro music festival. Would love for you to join us!
-- 🌱 I’m currently learning more about UI/UX processes to streamline and solve user centered problems.
+- 🌱 I’m currently learning more about UI/UX processes to streamline and solve user-centered problems.
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
